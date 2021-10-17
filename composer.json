@@ -15,8 +15,8 @@
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3",
-        "illuminate/cache": "^5.5",
-        "illuminate/filesystem": "^5.5",
+        "illuminate/cache": "^8.0",
+        "illuminate/filesystem": "^8.",
         "composer/composer": "^1.5"
     },
     "require-dev": {
