@@ -1,5 +1,5 @@
 {
-    "name": "jimmerioles/bitcoin-currency-converter-php",
+    "name": "maxxyryo/bitcoin-currency-converter-php",
     "description": "A simple and lightweight bitcoin to currency converter and vice versa based on current exchange rates from your chosen provider: Coinbase, Coindesk, Bitpay and etc.",
     "type": "library",
     "keywords": [
